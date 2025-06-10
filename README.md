@@ -1,7 +1,7 @@
 <p align="center">
   <h1>Hi 👋, I'm Hugo Florentino</h1>
   <h3>
-   I’m a self-taught full-stack JavaScript developer who’s spent countless hours learning, failing, and pushing through because I truly love building things with code. I’m ready to take the next step and find an opportunity where I can grow, contribute, and prove what I’m capable of.
+   I’m a self-taught full-stack JavaScript developer who’s spent countless hours learning, failing, and pushing through because I truly love building things with code. I’m ready to take the next step and find an opportunity where I can grow, contribute.
    </h3>
 </p>
 
