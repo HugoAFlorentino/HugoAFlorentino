@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Email-hugoflorentino86@hotmail.com-blue?style=flat&logo=gmail" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/hugo-florentino-b8ba9b1a3" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/hugo-florentino-892b61369/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-HugoFlorentino-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
