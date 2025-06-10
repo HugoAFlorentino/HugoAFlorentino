@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HugoAFlorentino&theme=radical" alt="GitHub Trophies" />
+  <i>Building cool things & learning every day 🚀</i>
 </p>
 
 
