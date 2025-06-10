@@ -15,10 +15,7 @@
 - Building a **user/dashboard app** for managing orders & stock tracking.
 - Expanding backend skills with **TypeScript** and **SQL**.
 
-Check out all my projects at 👉 
-<p align="center">
- <a href="https://hugoflorentino.netlify.app/" target="_blank" rel="noopener noreferrer">hugoflorentino.netlify.app</a>
-</p>
+Check out all my projects at 👉 [![My Projects](https://img.shields.io/badge/Projects-hugoflorentino.netlify.app-blue?style=flat&logo=netlify&logoColor=white)](https://hugoflorentino.netlify.app/)
 
 
 
